@@ -71,6 +71,8 @@ A serene, nature‑inspired website that clearly separates the two offers — **
 **User Stories**
 - As a visitor, I can understand in 5 seconds what the site offers and choose my path.
 - As a risk‑averse caregiver, I can see credibility before I click deeper.
+<!-- TODO(Adeline Lee, due 2024-04-30): Confirm the exact hero subheading/value proposition sentence so that the copy in design and implementation matches brand tone. -->
+<!-- TODO(Adeline Lee, due 2024-04-30): Provide the source and licensing details for the hero background image to ensure we have rights for production use. -->
 
 **Functional Requirements**
 - H1: “Rooms & Therapy — Community Living, Thoughtful Care (Singapore)”  
